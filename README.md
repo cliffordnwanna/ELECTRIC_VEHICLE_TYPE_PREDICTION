@@ -2,6 +2,8 @@
 
 # Electric Vehicle Type Prediction using Support Vector Machines (SVM)
 
+![Feature Importance](https://github.com/cliffordnwanna/ELECTRIC_VEHICLE_TYPE_PREDICTION/raw/main/IMAGES/Electric%20Vehicle.jpg)
+
 ## 📋 Project Overview
 
 This project aims to build a predictive model to classify electric vehicles as either **Battery Electric Vehicles (BEVs)** or **Plug-in Hybrid Electric Vehicles (PHEVs)**. Using a dataset of electric vehicles registered across different counties in Washington State, we applied **Support Vector Machines (SVM)** to analyze patterns and predict the type of electric vehicle based on several key features. The goal is to assist in understanding electric vehicle adoption trends and geographical distribution, as well as to provide insights for future electric vehicle-related decisions.
@@ -75,10 +77,10 @@ The SVM model performs well for predicting **BEVs**, with high precision and rec
 ## 📈 Visualizations
 
 ### Confusion Matrix Heatmap
-![Confusion Matrix Heatmap](images/confusion_matrix.png)
+![Confusion Matrix Heatmap](https://github.com/cliffordnwanna/ELECTRIC_VEHICLE_TYPE_PREDICTION/raw/main/IMAGES/confusion_matrix.png)
 
 ### Feature Importance (For Linear SVM)
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://github.com/cliffordnwanna/ELECTRIC_VEHICLE_TYPE_PREDICTION/raw/main/IMAGES/feature%20selection.png)
 
 The plots provide insights into how the SVM model makes its decisions and which features contribute most to the classification process.
 
