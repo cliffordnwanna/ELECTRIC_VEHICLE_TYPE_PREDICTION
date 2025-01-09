@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-This project aims to build a predictive model to classify electric vehicles as either **Battery Electric Vehicles (BEVs)** or **Plug-in Hybrid Electric Vehicles (PHEVs)**. Using a dataset of electric vehicles registered across different counties in Washington State, we applied **Support Vector Machines (SVM)** to analyze patterns and predict the type of electric vehicle based on several key features. The goal is to assist in understanding electric vehicle adoption trends and geographical distribution, as well as to provide insights for future electric vehicle-related decisions.
+This project aims to build a predictive model to classify electric vehicles as either **Battery Electric Vehicles (BEVs)** or **Plug-in Hybrid Electric Vehicles (PHEVs)**. Using a dataset of electric vehicles registered across different counties in Washington State, I applied **Support Vector Machines (SVM)** to analyze patterns and predict the type of electric vehicle based on several key features. The goal is to assist in understanding electric vehicle adoption trends and geographical distribution, as well as to provide insights for future electric vehicle-related decisions.
 
 ## 📂 Dataset Description
 
@@ -126,10 +126,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the Jupyter Notebook or Python script:
-   ```bash
-   jupyter notebook
-   ```
+4. Run the Jupyter Notebook:
+   
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
